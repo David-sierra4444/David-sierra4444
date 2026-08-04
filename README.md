@@ -5,6 +5,7 @@
 Soy un desarrollador apasionado por la creación de aplicaciones web dinámicas, interfaces intuitivas y experiencias digitales interactivas. Me enfoco en construir software funcional, responsive y centrado en la experiencia del usuario, utilizando tecnologías modernas de frontend y backend.
 
 ---
+
 ### 🛠️ Tecnologías & Herramientas
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -17,7 +18,7 @@ Soy un desarrollador apasionado por la creación de aplicaciones web dinámicas,
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 
-### 🛠️ Stack Tecnológico
+### 💻 Stack Tecnológico
 
 **Frontend & Experiencias Interactivas**
 * **Lenguajes & Frameworks:** HTML5, CSS3, JavaScript (ES6+), React, Bootstrap
@@ -43,10 +44,14 @@ Soy un desarrollador apasionado por la creación de aplicaciones web dinámicas,
 
 ### 🐍 Historial de Contribuciones
 
-### 🐍 Historial de Contribuciones
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/David-sierra4444/David-sierra4444/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/David-sierra4444/David-sierra4444/output/github-contribution-grid-snake.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/David-sierra4444/David-sierra4444/output/github-contribution-grid-snake.svg">
+</picture>
 
-![Snake Animation](https://raw.githubusercontent.com/David-sierra4444/David-sierra4444/output/github-contribution-grid-snake.svg)
 ---
+
 ### 📬 Conéctate Conmigo
 
 - ✉️ **Correo:** sierrita3123@gmail.com
