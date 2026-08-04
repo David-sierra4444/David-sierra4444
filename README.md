@@ -43,6 +43,8 @@ Soy un desarrollador apasionado por la creación de aplicaciones web dinámicas,
 
 ### 🐍 Historial de Contribuciones
 
+### 🐍 Historial de Contribuciones
+
 ![Snake Animation](https://raw.githubusercontent.com/David-sierra4444/David-sierra4444/output/github-contribution-grid-snake.svg)
 ---
 ### 📬 Conéctate Conmigo
