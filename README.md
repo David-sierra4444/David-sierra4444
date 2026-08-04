@@ -32,16 +32,13 @@ Soy un desarrollador apasionado por la creación de aplicaciones web dinámicas,
 
 ### 📊 Estadísticas de GitHub
 
-![Mis estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=radial)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=radial)
+![Mis estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=David-sierra4444&show_icons=true&theme=radial)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=David-sierra4444&layout=compact&theme=radial)
 
 ---
-
 ### 📬 Conéctate Conmigo
 
-- 💼 **LinkedIn:** [tu-perfil](https://linkedin.com/in/tu-perfil)
-- 🌐 **Portfolio / Sitio Web:** [tu-sitio-web.com](https://tu-sitio-web.com)
-- ✉️ **Correo:** tu-email@ejemplo.com
+- ✉️ **Correo:** sierrita3123œgmail.com
 
 ---
 *✨ "Construyendo la interfaz entre las ideas y el usuario."*
